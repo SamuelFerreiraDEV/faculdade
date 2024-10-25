@@ -1,0 +1,6 @@
+5
+1 Marelo M 2.7
+2 Rex M 4
+3 Lua F 1.3
+4 Ranjada F 5.9
+5 Cotoco M 3.2
